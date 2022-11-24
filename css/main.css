@@ -1,0 +1,41 @@
+body {
+  background-color: #fcfefc;
+}
+
+.main-content {
+  display: inline-block;
+  width: 50%;
+  margin-top: 150px;
+  margin-left: 25%;
+}
+
+.left-content {
+  width: 40%;
+  float: left;
+}
+
+.main-heading {
+  font-size: 120px;
+  font-family: "Sigmar One", cursive;
+  margin: 40px 0 0 0;
+}
+
+.secondary-text {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  margin: 0;
+}
+
+.btn {
+  display: inline-block;
+  color: black;
+  text-decoration: none;
+  border: 2px solid black;
+  margin-top: 40px;
+  padding: 5% 10%;
+}
+
+.travolta {
+  width: 60%;
+  float: right;
+}
